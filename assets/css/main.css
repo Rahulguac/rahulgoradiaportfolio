@@ -2706,8 +2706,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color:#0091c8;
-			color: #ffffff;		}
+			background-color: #a63961;
+			font-color:white;		}
 
 		input[type="submit"]:active,
 		input[type="reset"]:active,
@@ -3294,10 +3294,11 @@ input, select, textarea {
 				padding: 4em 0 2em 0 ;
 			}
 
-				.main.style2 {
-					background-attachment: scroll;
-				}
-
+					.main.style2 {
+						background-image: over;
+	        background-color: black;
+	        text-align: center;)
+		}
 		/* Header */
 
 			#header {
@@ -3337,8 +3338,13 @@ input, select, textarea {
 		/* Main */
 
 			.main {
-				padding: 5em 3em 3em 3em ;
+				padding: 3em 1.5em 1em 1.5em ;
 			}
+
+					.main.style2 {
+						            background-image: none;
+						            background-color: black; }
+
 
 		/* Header */
 

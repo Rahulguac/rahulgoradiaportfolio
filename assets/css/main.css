@@ -2706,7 +2706,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #a63961;
+			background-color: #41bce2;
 			font-color:white;		}
 
 		input[type="submit"]:active,
